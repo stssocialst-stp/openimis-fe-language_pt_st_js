@@ -5,7 +5,7 @@
   "description": "openIMIS Portuguese translations of reference modules",
    "repository": {
     "type": "git",
-    "url": "https://github.com/stssocialst-stp/openimis-fe-core_js"
+    "url": "https://github.com/stssocialst-stp/openimis-fe-language_pt_st_js"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
