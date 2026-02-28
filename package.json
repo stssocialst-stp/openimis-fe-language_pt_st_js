@@ -1,9 +1,15 @@
 {
-  "name": "@openimis/fe-language_pt_st",
+  "name": "@stssocialst-stp/fe-language_pt_st",
   "version": "1.5.0",
   "license": "AGPL-3.0-only",
   "description": "openIMIS Portuguese translations of reference modules",
-  "repository": "openimis/openimis-fe-language_pt_st_js",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/stssocialst-stp/openimis-fe-core_js"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {
