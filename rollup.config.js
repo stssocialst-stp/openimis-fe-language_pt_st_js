@@ -20,7 +20,7 @@ export default {
     /^@babel.*/,
     /^@date-io\/.*/,
     /^@material-ui\/.*/,
-    /^@openimis.*/,
+    /^@fe-language_pt_st.*/,
     "classnames",
     "clsx",
     "history",
